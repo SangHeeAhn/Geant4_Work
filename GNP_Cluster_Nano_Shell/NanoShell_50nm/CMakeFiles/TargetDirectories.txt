@@ -1,0 +1,1 @@
+/home/geant4/Geant4/NanoShell_50nm/CMakeFiles/NanoShell_50nm.dir

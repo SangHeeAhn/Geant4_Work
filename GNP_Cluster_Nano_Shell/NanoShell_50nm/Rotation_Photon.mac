@@ -1,0 +1,31 @@
+# Macro electron #
+#/control/verbose 2
+#/tracking/verbose 1
+#/run/verbose 1
+#/event/verbose 0
+#/gps/verbose 2
+/gps/particle gamma
+/gps/pos/type Plane
+#/gps/pos/shape Circle # Ellipse and Circle 
+#/gps/pos/centre 0 0 0.000026 mm
+#/gps/pos/radius 0.000025 mm
+
+
+#source postion 0 deg
+/gps/polarization 0 1 0
+
+#/gps/pos/rot1 1 0 0 
+#/gps/pos/rot2 0 1 0
+
+/gps/pos/shape Square
+/gps/pos/halfx 0.55 um
+/gps/pos/halfy 0.55 um
+/gps/pos/centre 0.0 0.0 0.56 um
+
+#/gps/pos/halfx 0.000025 mm
+#/gps/pos/halfy 0.000025 mm
+/gps/energy 50.0 keV
+/run/setCut 0.00000001 mm
+/run/beamOn 100
+/process/em/auger true
+/process/em/pixe true

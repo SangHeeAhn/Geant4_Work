@@ -1,0 +1,26 @@
+Number of Secondary electron, deposited energy, absorbed Dose
+
+
+NumSEco Shell_1: 418
+NumSEco Shell_2: 471
+NumSEco Shell_3: 529
+NumSEco Shell_4: 612
+NumSEco Shell_5: 712
+NumSEco Shell_6: 807
+NumSEco Shell_7: 950
+NumSEco Shell_8: 1076
+NumSEco Shell_9: 1203
+NumSEco Shell_10: 1363
+
+
+Total Dose Shell_1: 416487 Gy
+Total Dose Shell_2: 254925 Gy
+Total Dose Shell_3: 203488 Gy
+Total Dose Shell_4: 272184 Gy
+Total Dose Shell_5: 219430 Gy
+Total Dose Shell_6: 184135 Gy
+Total Dose Shell_7: 196826 Gy
+Total Dose Shell_8: 186120 Gy
+Total Dose Shell_9: 205154 Gy
+Total Dose Shell_10: 144457 Gy
+y
