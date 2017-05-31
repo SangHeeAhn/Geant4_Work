@@ -1,0 +1,2 @@
+/home/geant4/Geant4/Novalis_Tx/novalis/CMakeFiles/medical_linac.dir
+/home/geant4/Geant4/Novalis_Tx/novalis/CMakeFiles/novalis.dir

@@ -1,0 +1,6 @@
+/home/ash/Geant4_Work/Zinc_Hist/CMakeFiles/install.dir
+/home/ash/Geant4_Work/Zinc_Hist/CMakeFiles/list_install_components.dir
+/home/ash/Geant4_Work/Zinc_Hist/CMakeFiles/Zinc_hist.dir
+/home/ash/Geant4_Work/Zinc_Hist/CMakeFiles/install/local.dir
+/home/ash/Geant4_Work/Zinc_Hist/CMakeFiles/rebuild_cache.dir
+/home/ash/Geant4_Work/Zinc_Hist/CMakeFiles/edit_cache.dir

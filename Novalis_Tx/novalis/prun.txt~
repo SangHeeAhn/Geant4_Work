@@ -1,0 +1,11 @@
+#PBS -l nodes=1:ppn=1,walltime=300:00:00
+#PBS -q infi
+#PBS -o ./log
+#PBS -e ./log
+
+echo $PWD >& /home/hjung/bpwd.txt 
+cd /home/hjung/novalis_smc001/novalis
+echo $PWD >& pwd.txt 
+. /home/software/Geant4/geant4.9.6.p02/geant4.9.6.p02-install/bin/geant4.sh
+/home/hjung/novalis_smc001/install/bin/novalis novalis1.mac 9 >& log.txt 
+
